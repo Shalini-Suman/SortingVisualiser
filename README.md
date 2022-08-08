@@ -1,7 +1,7 @@
 # Sorting Visualizer
 
-![Project Image](https://github.com/shubh67678/sorting-visualizer/blob/master/image/gif.gif)
-> [Live demo](https://shubh67678.github.io/sorting-visualizer/)
+![Project Image](https://github.com/shalini-suman/sorting-visualizer/blob/master/image/gif.gif)
+> [Live demo](https://shalini-suman.github.io/SortingVisualiser/)
 
 ---
 
